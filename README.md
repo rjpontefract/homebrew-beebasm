@@ -1,5 +1,5 @@
-homebrew-dump1090
-=================
+homebrew-beebasm
+================
 
-A homebrew formula for MalcolmRobb's fork of Salvatore Sanfilippo's (antirez@gmail.com) dump1090.
+A homebrew formula for A home-brew formula for Rich Talbot-Watkins' portable 6502 assembler with BBC Micro style syntax
 
